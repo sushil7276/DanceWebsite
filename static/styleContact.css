@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&family=Roboto+Condensed&display=swap');
+
+h1 {
+    text-align: center;
+    margin: 88px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 50px;
+}
+
+.myInput {
+    width: 40%;
+    padding: 9px;
+    margin: 9px;
+    font-size: 16px;
+    border: 2px solid #741f1f;
+}
+
+.myForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: -77px 0;
+    outline: none;
+}
+
+.btn{
+    padding: 9px 33px;
+    margin: 10px;
+    border: 2px solid #000000;
+    color: white;
+    background: #e54f4f;
+    border-radius: 7px;
+    font-size: 18px;
+}
+
+.container{
+    min-height: 27.1vh;
+}
